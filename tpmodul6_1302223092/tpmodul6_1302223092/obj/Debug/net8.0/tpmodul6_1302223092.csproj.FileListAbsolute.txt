@@ -1,0 +1,14 @@
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\tpmodul6_1302223092\tpmodul6_1302223092\bin\Debug\net8.0\tpmodul6_1302223092.exe
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\tpmodul6_1302223092\tpmodul6_1302223092\bin\Debug\net8.0\tpmodul6_1302223092.deps.json
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\tpmodul6_1302223092\tpmodul6_1302223092\bin\Debug\net8.0\tpmodul6_1302223092.runtimeconfig.json
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\tpmodul6_1302223092\tpmodul6_1302223092\bin\Debug\net8.0\tpmodul6_1302223092.dll
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\tpmodul6_1302223092\tpmodul6_1302223092\bin\Debug\net8.0\tpmodul6_1302223092.pdb
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\tpmodul6_1302223092\tpmodul6_1302223092\obj\Debug\net8.0\tpmodul6_1302223092.GeneratedMSBuildEditorConfig.editorconfig
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\tpmodul6_1302223092\tpmodul6_1302223092\obj\Debug\net8.0\tpmodul6_1302223092.AssemblyInfoInputs.cache
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\tpmodul6_1302223092\tpmodul6_1302223092\obj\Debug\net8.0\tpmodul6_1302223092.AssemblyInfo.cs
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\tpmodul6_1302223092\tpmodul6_1302223092\obj\Debug\net8.0\tpmodul6_1302223092.csproj.CoreCompileInputs.cache
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\tpmodul6_1302223092\tpmodul6_1302223092\obj\Debug\net8.0\tpmodul6_1302223092.dll
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\tpmodul6_1302223092\tpmodul6_1302223092\obj\Debug\net8.0\refint\tpmodul6_1302223092.dll
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\tpmodul6_1302223092\tpmodul6_1302223092\obj\Debug\net8.0\tpmodul6_1302223092.pdb
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\tpmodul6_1302223092\tpmodul6_1302223092\obj\Debug\net8.0\tpmodul6_1302223092.genruntimeconfig.cache
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\tpmodul6_1302223092\tpmodul6_1302223092\obj\Debug\net8.0\ref\tpmodul6_1302223092.dll
